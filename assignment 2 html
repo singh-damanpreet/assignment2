@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="assignment2.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="title">
+            <span>PhoneBook</span>
+        </div>
+        <div class="list">
+            <dl>
+                
+                <dt> <span>A</span></dt>
+                <dd>Amrit</dd>
+                <dd>Agam</dd>
+                <dd>Aman</dd>
+                <dd>Amandeep</dd>
+                <dd>Anmol</dd>
+           
+                
+                <dt> <span>B</span></dt>
+                <dd>Biofv</dd>
+                <dd>Baofcjio</dd>
+                <dd>Beadje</dd>
+                <dd>Bsdhcn</dd>
+                <dd>Bvnvj</dd>
+                <dd>Bdjfu</dd>
+                
+                <dt> <span>C</span></dt>
+                <dd>Chirag</dd>
+                <dd>Chris</dd>
+                <dd>Chvhf</dd>
+                <dd>Cvgseh</dd>
+                <dd>Cfvio</dd>
+                
+                <dt> <span>D</span></dt>
+                <dd>Daman</dd>
+                <dd>Ddjf</dd>
+                <dd>Dhawan</dd>
+                <dd>Ddfv</dd>
+                <dd>Dfs</dd>
+                
+                <dt> <span>E</span></dt>
+                <dd>Ersg</dd>
+                <dd>Emthdrhn</dd>
+                <dd>Ebfsfbey</dd>
+                
+                <dt> <span>F</span></dt>
+                <dd>Fovsdv</dd>
+                <dd>Fesbs</dd>
+                <dd>Fibdsv</dd>
+                <dd>Fsrbhsr</dd>
+                <dd>Frfbhsr</dd>
+            </dl>
+        </div>
+    </div>
+</body>
+
+</html>
